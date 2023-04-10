@@ -1,6 +1,4 @@
-// YOUR NAME HERE
-// CIT 163 Fall 2020
-//
+
 // This program creates a class to store a time from 00:00 to 23:59
 // The time is stored internally as the number of minutes since midnight
 //
